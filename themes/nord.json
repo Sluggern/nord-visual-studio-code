@@ -180,6 +180,8 @@
     "tab.inactiveForeground": "#d8dee966",
     "tab.unfocusedActiveForeground": "#d8dee999",
     "tab.unfocusedInactiveForeground": "#d8dee966",
+    "tab.activeBorderTop": "#88c0d000",
+    "tab.unfocusedActiveBorderTop": "#88c0d000",
     "terminal.background": "#2e3440",
     "terminal.foreground": "#d8dee9",
     "terminal.ansiBlack": "#3b4252",
